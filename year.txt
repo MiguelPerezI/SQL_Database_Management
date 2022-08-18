@@ -1,0 +1,724 @@
+Changed database context to 'MeteoriteLandings'.
+name                                               recclass                                           year        GeoLocationX             GeoLocationY            
+-------------------------------------------------- -------------------------------------------------- ----------- ------------------------ ------------------------
+Allan Hills 94001                                  L/LL4                                                     1994      -76.716669999999993       159.66667000000001
+Allan Hills 94002                                  L6                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94003                                  H5                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94004                                  H5                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94005                                  H5                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94006                                  H6                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94007                                  L3.4                                                      1994      -76.716669999999993       159.66667000000001
+Allan Hills 94008                                  H6                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94009                                  L6                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94010                                  L6                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94011                                  L6                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94012                                  L4                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94013                                  L6                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94014                                  L6                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94015                                  L6                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94016                                  L6                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94017                                  L6                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94018                                  L6                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94019                                  L6                                                        1994      -76.716669999999993       159.66667000000001
+Allan Hills 94020                                  L6                                                        1994      -76.716669999999993       159.66667000000001
+Barrilla                                           H5                                                        1994       30.783329999999999      -103.46666999999999
+Baszk+¦wka                                         L5                                                        1994       52.033329999999999       20.935829999999999
+Baygorria                                          Iron-IAB complex                                          1994                    -33.0                    -56.0
+Broken Hill                                        L6                                                        1994                -31.83333                141.76667
+Camel Donga 017                                    H5                                                        1994      -30.021999999999998       126.55249999999999
+Camel Donga 018                                    L6                                                        1994      -30.022500000000001       126.55200000000001
+Camel Donga 019                                    L6                                                        1994                -30.07967       126.88916999999999
+Camel Donga 020                                    L6                                                        1994                -30.07967       126.88916999999999
+Camel Donga 021                                    L6                                                        1994      -30.063829999999999                126.88417
+Camel Donga 022                                    L6                                                        1994                 -30.0855       126.90116999999999
+Camel Donga 023                                    H6                                                        1994      -30.087330000000001                126.90167
+Camel Donga 024                                    L6                                                        1994      -30.098669999999998       126.88549999999999
+Camel Donga 025                                    L/LL6                                                     1994      -30.098669999999998                126.88533
+Camel Donga 026                                    L6                                                        1994      -30.091670000000001                126.88883
+Camel Donga 027                                    L/LL6                                                     1994      -30.091670000000001                126.88883
+Camel Donga 028                                    L6                                                        1994      -30.091670000000001                126.88883
+Camel Donga 029                                    L6                                                        1994      -30.091670000000001                126.88883
+Camel Donga 030                                    L6                                                        1994      -30.091670000000001                126.88883
+Camel Donga 031                                    L6                                                        1994      -30.091670000000001                126.88883
+Camel Donga 032                                    LL6                                                       1994      -30.091670000000001                126.88883
+Camel Donga 033                                    LL6                                                       1994      -30.091670000000001                126.88883
+Camel Donga 034                                    L6                                                        1994      -30.091670000000001                126.88883
+Camel Donga 035                                    L6                                                        1994      -30.091670000000001                126.88883
+Camel Donga 036                                    L6                                                        1994      -30.091670000000001                126.88883
+Camel Donga 037                                    L6                                                        1994                 -30.1845       126.68367000000001
+Camel Donga 038                                    H6                                                        1994      -30.184170000000002                    126.7
+Camel Donga 039                                    H6                                                        1994      -30.316669999999998       126.59999999999999
+Coleman                                            L6                                                        1994       43.761110000000002      -84.507779999999997
+Devri-Khera                                        L6                                                        1994       24.225000000000001       76.525000000000006
+Great Sand Sea 004                                 LL6                                                       1994       25.593060000000001                 25.52778
+Gunnadorah 003                                     L6                                                        1994      -30.499669999999998                126.22183
+Gunnadorah 004                                     H5                                                        1994      -30.467169999999999                126.34367
+Gunnadorah 005                                     L6                                                        1994      -30.474830000000001                126.35883
+Gunnadorah 006                                     L6                                                        1994      -30.474830000000001                126.35883
+Gunnadorah 007                                     L6                                                        1994      -30.480329999999999       126.34699999999999
+Gunnadorah 008                                     H6                                                        1994      -30.480830000000001       126.34632999999999
+Gunnadorah 009                                     H6                                                        1994      -30.480830000000001       126.34632999999999
+Gunnadorah 010                                     H5                                                        1994      -30.466670000000001                126.33333
+Hammadah al Hamra 042                              L6                                                        1994       29.270499999999998       11.670170000000001
+Hammadah al Hamra 043                              CO3                                                       1994                 29.07367                  11.8765
+Hammadah al Hamra 044                              H4                                                        1994                 29.25067       11.251670000000001
+Hammadah al Hamra 045                              H5                                                        1994                 29.36167                 11.24583
+Hammadah al Hamra 046                              L/LL6                                                     1994       28.616669999999999                 12.94533
+Hammadah al Hamra 047                              H4/5                                                      1994                 28.68233       13.070830000000001
+Hammadah al Hamra 048                              H4/5                                                      1994                 28.49033                  13.3055
+Hammadah al Hamra 049                              H4                                                        1994       28.533000000000001                 13.14517
+Hammadah al Hamra 050                              L5-6                                                      1994       28.798829999999999                 12.95933
+Hammadah al Hamra 051                              H6                                                        1994       28.843499999999999       12.996829999999999
+Hammadah al Hamra 052                              LL5-6                                                     1994                 28.91367       13.086499999999999
+Hammadah al Hamra 053                              L5-6                                                      1994       28.868500000000001       13.303000000000001
+Hammadah al Hamra 054                              H6                                                        1994                   28.988                 13.06133
+Hammadah al Hamra 055                              H6                                                        1994       28.989830000000001                 13.05983
+Hammadah al Hamra 056                              LL6                                                       1994       28.672999999999998       13.164669999999999
+Hammadah al Hamra 057                              LL6                                                       1994       28.940000000000001                  13.0665
+Hammadah al Hamra 058                              L4-5                                                      1994       28.940829999999998                  13.0665
+Hammadah al Hamra 059                              Eucrite-mmict                                             1994       28.945499999999999                  13.0695
+Hammadah al Hamra 060                              LL6                                                       1994       28.951329999999999       13.074999999999999
+Hammadah al Hamra 061                              H5                                                        1994       28.972999999999999       13.100669999999999
+Hammadah al Hamra 062                              LL4-5                                                     1994       28.764669999999999       12.343669999999999
+Hammadah al Hamra 063                              H6                                                        1994       28.775829999999999       12.336830000000001
+Hammadah al Hamra 064                              Ureilite                                                  1994       28.777670000000001                  12.3355
+Hammadah al Hamra 065                              L6                                                        1994       28.634170000000001       12.725669999999999
+Hammadah al Hamra 066                              L6                                                        1994       28.633669999999999                   12.724
+Hammadah al Hamra 067                              L6                                                        1994       28.639669999999999                 12.71433
+Hammadah al Hamra 068                              H5/6                                                      1994       28.754670000000001       12.586830000000001
+Hammadah al Hamra 069                              L6                                                        1994       29.031829999999999                   12.381
+Hammadah al Hamra 070                              H6                                                        1994                 29.16133       12.449999999999999
+Hammadah al Hamra 071                              L6                                                        1994       29.212499999999999                 12.52183
+Hammadah al Hamra 072                              H5                                                        1994                 28.76717                 12.89883
+Hammadah al Hamra 073                              C4-ung                                                    1994       28.787669999999999                 12.87017
+Hammadah al Hamra 074                              L/LL6                                                     1994       28.856169999999999                 12.59867
+Hammadah al Hamra 075                              H5                                                        1994       28.904669999999999       12.555669999999999
+Hammadah al Hamra 076                              H5                                                        1994       28.969000000000001       12.356999999999999
+Hammadah al Hamra 077                              H5                                                        1994                  28.9755                 12.33967
+Hammadah al Hamra 078                              H5                                                        1994                   29.189       12.265829999999999
+Hammadah al Hamra 079                              H5                                                        1994       29.187830000000002                 12.25483
+Hughes 037                                         H5                                                        1994                -30.41667       129.65000000000001
+Kress d                                            H5                                                        1994       34.383330000000001      -101.71666999999999
+Las Colonas                                        Howardite                                                 1994                 22.58333               -101.98333
+Lohawat                                            Howardite                                                 1994                 26.96556       72.626670000000004
+Lonewolf Nunataks 94100                            EL6                                                       1994      -81.333330000000004       152.83332999999999
+Lonewolf Nunataks 94101                            CM2                                                       1994      -81.333330000000004       152.83332999999999
+Lonewolf Nunataks 94102                            CM2                                                       1994      -81.333330000000004       152.83332999999999
+Lonewolf Nunataks 94103                            L6                                                        1994      -81.333330000000004       152.83332999999999
+Lonewolf Nunataks 94104                            H6                                                        1994      -81.333330000000004       152.83332999999999
+Lonewolf Nunataks 94105                            L6                                                        1994      -81.333330000000004       152.83332999999999
+Lonewolf Nunataks 94106                            L6                                                        1994      -81.333330000000004       152.83332999999999
+Lonewolf Nunataks 94107                            L6                                                        1994      -81.333330000000004       152.83332999999999
+Lonewolf Nunataks 94108                            L6                                                        1994      -81.333330000000004       152.83332999999999
+Lonewolf Nunataks 94109                            L6                                                        1994      -81.333330000000004       152.83332999999999
+Majdul 001                                         L6                                                        1994       25.595669999999998       15.422499999999999
+Mont Dieu                                          Iron-ungrouped                                            1994       49.549999999999997       4.8666700000000001
+New Halfa                                          L4                                                        1994       15.366669999999999       35.683329999999998
+Pampa Providencia                                  Iron-IIIAB                                                1994      -24.449999999999999      -69.571669999999997
+Pigick                                             H5                                                        1994      -35.906669999999998       141.85499999999999
+Queen Alexandra Range 94200                        Howardite                                                 1994                    -84.0                    168.0
+Queen Alexandra Range 94201                        Martian shergottite                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94202                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94203                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94204                        EH7                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94205                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94206                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94207                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94208                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94209                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94210                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94211                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94212                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94213                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94214                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94215                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94216                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94217                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94218                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94220                        CM2                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94221                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94222                        CM2                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94223                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94227                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94228                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94229                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94230                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94231                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94232                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94233                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94234                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94235                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94236                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94237                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94238                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94239                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94240                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94241                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94242                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94243                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94244                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94245                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94246                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94247                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94248                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94249                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94250                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94251                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94252                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94253                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94254                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94255                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94257                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94258                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94259                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94260                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94261                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94262                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94263                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94264                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94265                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94266                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94267                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94268                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94269                        Lunar anorth                                              1994                    -84.0                    168.0
+Queen Alexandra Range 94270                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94271                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94272                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94273                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94275                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94276                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94277                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94278                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94279                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94280                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94281                        Lunar basalt                                              1994                    -84.0                    168.0
+Queen Alexandra Range 94282                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94283                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94284                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94285                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94286                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94287                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94288                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94289                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94290                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94291                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94292                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94293                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94294                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94296                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94297                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94298                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94299                        Mesosiderite                                              1994                    -84.0                    168.0
+Queen Alexandra Range 94300                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94301                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94302                        LL5                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94303                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94304                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94305                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94306                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94307                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94308                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94309                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94310                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94311                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94312                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94313                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94314                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94315                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94316                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94317                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94318                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94319                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94320                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94321                        EL3                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94322                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94324                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94325                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94326                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94327                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94328                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94329                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94330                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94331                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94332                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94333                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94334                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94335                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94336                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94337                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94338                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94339                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94340                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94341                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94342                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94343                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94344                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94345                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94346                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94347                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94348                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94349                        LL5                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94350                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94351                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94352                        L4                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94353                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94354                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94355                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94356                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94357                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94359                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94360                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94361                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94362                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94363                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94364                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94365                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94366                        CV3                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94367                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94368                        EL4                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94369                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94370                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94371                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94372                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94373                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94374                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94375                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94376                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94377                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94378                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94379                        LL5                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94380                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94381                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94382                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94383                        LL5                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94384                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94385                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94386                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94387                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94388                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94389                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94390                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94391                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94392                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94393                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94394                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94395                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94396                        L3.4                                                      1994                    -84.0                    168.0
+Queen Alexandra Range 94397                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94398                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94399                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94400                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94401                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94402                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94403                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94404                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94405                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94406                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94407                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94408                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94409                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94410                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94411                        CBb                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94412                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94413                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94414                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94415                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94416                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94417                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94418                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94419                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94420                        L3.4                                                      1994                    -84.0                    168.0
+Queen Alexandra Range 94421                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94422                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94423                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94424                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94425                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94426                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94427                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94428                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94429                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94430                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94431                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94432                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94433                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94434                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94436                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94437                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94438                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94439                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94440                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94441                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94442                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94443                        LL5                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94444                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94445                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94446                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94447                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94448                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94449                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94450                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94451                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94452                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94453                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94454                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94455                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94456                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94457                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94458                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94459                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94460                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94461                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94462                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94463                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94464                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94465                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94466                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94467                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94468                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94469                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94470                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94471                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94472                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94473                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94474                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94475                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94476                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94477                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94478                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94479                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94480                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94481                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94482                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94483                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94484                        Eucrite-unbr                                              1994                    -84.0                    168.0
+Queen Alexandra Range 94485                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94486                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94487                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94488                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94489                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94490                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94491                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94492                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94493                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94494                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94495                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94496                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94497                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94498                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94499                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94500                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94501                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94502                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94503                        LL5                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94504                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94505                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94506                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94507                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94508                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94509                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94510                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94511                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94512                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94513                        L4                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94514                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94515                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94516                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94517                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94518                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94519                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94520                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94521                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94522                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94523                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94524                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94525                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94526                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94527                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94528                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94529                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94530                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94531                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94532                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94533                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94534                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94535                        Winonaite                                                 1994                    -84.0                    168.0
+Queen Alexandra Range 94536                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94537                        L3.6                                                      1994                    -84.0                    168.0
+Queen Alexandra Range 94538                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94539                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94540                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94541                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94542                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94543                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94544                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94545                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94546                        CV3                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94547                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94548                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94549                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94550                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94551                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94552                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94553                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94554                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94555                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94556                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94557                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94558                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94559                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94560                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94561                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94562                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94563                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94564                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94565                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94566                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94568                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94569                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94570                        L4-an                                                     1994                    -84.0                    168.0
+Queen Alexandra Range 94571                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94572                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94573                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94574                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94575                        H3.6                                                      1994                    -84.0                    168.0
+Queen Alexandra Range 94576                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94577                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94578                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94579                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94580                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94581                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94582                        CM2                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94583                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94584                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94585                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94586                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94587                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94588                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94589                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94590                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94591                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94592                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94593                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94594                        EL3                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94595                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94596                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94597                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94598                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94599                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94600                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94601                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94602                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94603                        CR2                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94604                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94605                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94606                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94607                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94608                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94609                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94610                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94611                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94612                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94613                        Ureilite                                                  1994                    -84.0                    168.0
+Queen Alexandra Range 94614                        Mesosiderite                                              1994                    -84.0                    168.0
+Queen Alexandra Range 94615                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94616                        Howardite                                                 1994                    -84.0                    168.0
+Queen Alexandra Range 94617                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94618                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94619                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94620                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94621                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94622                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94623                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94624                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94625                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94626                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94627                        CBb                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94628                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94629                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94630                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94631                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94632                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94633                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94634                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94635                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94636                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94637                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94638                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94639                        Mesosiderite                                              1994                    -84.0                    168.0
+Queen Alexandra Range 94640                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94641                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94642                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94643                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94644                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94645                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94646                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94647                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94648                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94649                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94650                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94651                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94652                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94653                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94654                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94655                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94656                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94657                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94658                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94659                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94660                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94661                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94662                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94663                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94664                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94665                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94666                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94667                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94668                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94669                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94670                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94671                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94672                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94673                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94674                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94675                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94676                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94677                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94678                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94679                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94680                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94681                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94682                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94683                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94684                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94685                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94686                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94687                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94688                        CV3                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94689                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94690                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94691                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94692                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94693                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94694                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94695                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94696                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94697                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94698                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94699                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94700                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94701                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94702                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94703                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94704                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94705                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94706                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94707                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94708                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94709                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94710                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94711                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94712                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94713                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94714                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94715                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94716                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94717                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94718                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94719                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94720                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94721                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94722                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94723                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94724                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94725                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94726                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94727                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94728                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94729                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94730                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94731                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94732                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94733                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94734                        CM2                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94735                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94736                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94737                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94738                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94739                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94740                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94742                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94743                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94744                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94745                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94746                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94747                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94748                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94749                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94750                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94751                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94752                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94753                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94754                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94755                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94756                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94757                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94758                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94759                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94760                        LL6                                                       1994                    -84.0                    168.0
+Queen Alexandra Range 94761                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94762                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94763                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94764                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94765                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94766                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94767                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94768                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94769                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94770                        L5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94771                        H5                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94772                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94773                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94774                        L6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94775                        L4                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94776                        H6                                                        1994                    -84.0                    168.0
+Queen Alexandra Range 94777                        H5                                                        1994                    -84.0                    168.0
+Rainbow                                            CO3.2                                                     1994      -35.906669999999998       141.85499999999999
+Roosevelt County 091                               H4                                                        1994       34.083329999999997                   -103.5
+Roosevelt County 092                               L5                                                        1994       34.083329999999997                   -103.5
+Roosevelt County 093                               L5                                                        1994       34.083329999999997                   -103.5
+Roosevelt County 094                               L5                                                        1994       34.083329999999997                   -103.5
+Rumanov+í                                          H5                                                        1994       48.347999999999999                   17.866
+Sarir Qattusah 001                                 L/LL3                                                     1994       26.445499999999999       15.592499999999999
+Sarir Tibesti 001                                  H5                                                        1994       24.297000000000001                 18.41433
+Siwa                                               L5-6                                                      1994                     28.5                     25.5
+Sleeper Camp 015                                   H5                                                        1994                 -30.0275       126.27016999999999
+Sleeper Camp 016                                   L6                                                        1994      -30.031829999999999                126.27283
+Sleeper Camp 017                                   H5                                                        1994      -30.012830000000001                126.25783
+Snyder Hill                                        L5                                                        1994       32.158329999999999               -111.11333
+St-Robert                                          H5                                                        1994       45.968609999999998      -72.978059999999999
+Tarahumara                                         Iron-IIE                                                  1994                     28.5                  -106.25
+Turriff                                            L5                                                        1994      -35.483330000000002       142.59999999999999
+Yamato 9401                                        H4                                                        1994      -71.546940000000006       35.401940000000003
+Yamato 9402                                        H4                                                        1994      -71.546940000000006       35.401940000000003
+Yamato 9403                                        H6                                                        1994      -71.546940000000006       35.401940000000003
+Yamato 9404                                        H4                                                        1994      -71.546940000000006       35.401940000000003
+Yamato 9405                                        H/L4                                                      1994      -71.546940000000006       35.401940000000003
+Yamato 9406                                        H6                                                        1994      -71.546940000000006       35.401940000000003
+Yamato 9407                                        H4                                                        1994      -71.546940000000006       35.401940000000003
+Yamato 9408                                        H4                                                        1994      -71.546940000000006       35.401940000000003
+Yamato 9409                                        H4                                                        1994      -71.546940000000006       35.401940000000003
+Yamato 9410                                        OC                                                        1994      -71.546940000000006       35.401940000000003
+Yamato 9411                                        OC                                                        1994      -71.546940000000006       35.401940000000003
+Yamato 9412                                        OC                                                        1994      -71.546940000000006       35.401940000000003
+Yamato 9413                                        OC                                                        1994      -71.546940000000006       35.401940000000003
+Yamato 9414                                        OC                                                        1994      -71.546940000000006       35.401940000000003
+Yamato 9415                                        OC                                                        1994      -71.546940000000006       35.401940000000003
+Yamato 9416                                        OC                                                        1994      -71.546940000000006       35.401940000000003
+Mercedes                                           H5                                                        1994      -34.666670000000003      -59.333329999999997
++ûsterplana 004                                    Relict OC                                                 1994       58.583329999999997                 13.43333
++ûsterplana 030                                    Relict OC                                                 1994       58.583329999999997                 13.43333
+Great Sand Sea 022                                 H6                                                        1994                 25.91667                 25.66667
+Dumont                                             Iron-IVB                                                  1994       33.816670000000002               -100.51667
+Corn                                               H5                                                        1994       35.405000000000001      -98.748890000000003
+
+(719 rows affected)
