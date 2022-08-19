@@ -1,41 +1,25 @@
 USE MeteoriteLandings;
 
---SELECT 
---	TABLE_NAME, COLUMN_NAME, DATA_TYPE
---FROM
---	MeteoriteLandings.INFORMATION_SCHEMA.COLUMNS;
-
---SELECT
---	TOP 3 *
---FROM
---	landingsData;
-
-DECLARE @k INT, @y INT, @iter INT;
-SET @k = 1;
-SET @y = 1994;
-SET @iter = 0;
-
-DECLARE @s VARCHAR(30);
-SET @s = "Iron-IVB";
-
---SELECT	name, recclass, year, GeoLocationX, GeoLocationY
---FROM	landingsData
---WHERE	year = @y
---ORDER BY year ASC;
-
---SELECT TOP 10 name, recclass, year, mass, GeoLocationX, GeoLocationY
---FROM LandingsData
---ORDER BY mass DESC;
-
 --Count an element/object in a column
 -- SELECT DISTINCT COUNT(year) AS clas
 -- FROM landingsData
 -- WHERE year = @y;
 
+--19.6528, 99.2231
 
-SELECT TOP 10 GeoLocationX, GeoLocationY
-FROM
-	landingsData;
+SELECT	TOP 10 der2.name, der2.year, der2.recclass, der2.Distance, der2.mass
+FROM(
+	SELECT 	TOP 10 derivedImpact.Distance, derivedImpact.name, derivedImpact.year, derivedImpact.mass, derivedImpact.recclass
+	FROM (
+		SELECT 	*, 
+			SQRT((GeoLocationX-19.6528)*(GeoLocationX-19.6528) + (GeoLocationY+99.2231)*(GeoLocationY+99.2231)) AS Distance
+		FROM meteorites
+	) AS 	derivedImpact
+	WHERE 	derivedImpact.Distance IS NOT NULL
+	ORDER BY Distance
+    ) AS der2
+ORDER BY der2.mass;
+
 
 
 --WHILE @k <= 45716

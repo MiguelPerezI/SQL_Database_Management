@@ -1,9 +1,9 @@
 USE MeteoriteLandings;
 
 -- First we create a table that matches th columns of the csv file
-CREATE TABLE landingsData(
+CREATE TABLE meteorites(
 	name VARCHAR(50),
-	id INT PRIMARY KEY,
+	id INT,
 	nametype VARCHAR(50),
 	recclass VARCHAR(50),
 	mass FLOAT,
@@ -22,10 +22,10 @@ FROM
 	MeteoriteLandings.INFORMATION_SCHEMA.TABLES;
 
 -- Next we truncate the table
-TRUNCATE TABLE landingsData;
+TRUNCATE TABLE meteorites;
 
 -- Now we load the csv file onto the table
 -- Clean csv files that have "text, text" on their columns
-BULK INSERT landingsData 
+BULK INSERT meteorites 
 FROM '/home/mike666/Downloads/data8.csv' 
 WITH (FORMAT='CSV', FIRSTROW=2);
