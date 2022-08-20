@@ -1,6 +1,6 @@
 USE mexicoData;
 
-DROP TABLE Delitos;
+--DROP TABLE Delitos;
 
 SELECT
         TABLE_NAME
