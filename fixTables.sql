@@ -82,6 +82,14 @@ USE mexicoData;
 
 
 
+SELECT MUNOCURR, COUNT(MUNOCURR) AS Numero_Delitos
+FROM DelitosHidalgo
+GROUP BY MUNOCURR
+ORDER BY NEWID();
+
+
+
+-------CALCULAMOS EL PROMEDIO PARA CADA MUESTRA
 DECLARE @tableA TABLE(MUNOCURR VARCHAR(10), Numero_Delitos INT);
 INSERT @tableA(MUNOCURR, Numero_Delitos)
 SELECT TOP 20 MUNOCURR, COUNT(MUNOCURR) AS Numero_Delitos
@@ -92,13 +100,21 @@ ORDER BY NEWID();
 DECLARE @mean INT;
 SET @mean = (SELECT SUM(Numero_Delitos) FROM @tableA);
 
-DECLARE @meanf float;
+DECLARE @meanf float, @meanT float;
 SET @meanf = CONVERT(FLOAT, @mean);
-PRINT N'--->suma := ' + CONVERT(VARCHAR, @mean) + N'/20 := ' + CONVERT(VARCHAR, @meanf/20.0);
 
 SELECT * FROM @tableA;
+SET @meanT = @meanf/20.0;
+PRINT N'--->suma := ' + CONVERT(VARCHAR, @mean) + N'/20 := ' + CONVERT(VARCHAR, @meanT);
 
+DECLARE @s float;
 
+SELECT Numero_Delitos-@meanT AS desviacion
+FROM @tableA;
 
+SET @s = (SELECT SUM(SQUARE(Numero_Delitos-@meanT)) AS desviacion
+FROM @tableA);
 
+SET @s = SQRT(@s/19.0);
 
+PRINT N'--->Desviacion Estandar := ' + CONVERT(VARCHAR, @s);
